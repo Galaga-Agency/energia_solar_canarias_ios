@@ -27,6 +27,7 @@
 		8E7043942D5B71E600A9E5F6 /* esc-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "esc-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E7043A52D5B71E700A9E5F6 /* esc-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "esc-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E7043AF2D5B71E700A9E5F6 /* esc-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "esc-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E8A77362D9EB5A000AAEE24 /* esc_ios.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = esc_ios.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +93,7 @@
 				8E7043A82D5B71E700A9E5F6 /* esc-iosTests */,
 				8E7043B22D5B71E700A9E5F6 /* esc-iosUITests */,
 				8E7043952D5B71E600A9E5F6 /* Products */,
+				8E8A77362D9EB5A000AAEE24 /* esc_ios.entitlements */,
 			);
 			sourceTree = "<group>";
 		};
